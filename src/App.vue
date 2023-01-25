@@ -108,26 +108,26 @@ export default {
         {
           "callsign": "Wildfire",
           "alias": "Serena Sherwood",
-          "code": "Sf572259-a946-m1bf-031a-00543709e892d",
+          "code": "Sf572259-a946-m1bf-031a-00543709e892a",
           "corpro": "Classified",
           "frame": "Classified",
-          "mech": "Redacted"
+          "mech": "Ghost_Town"
         },
         {
           "callsign": "Fever",
           "alias": "Zorica Novak",
-          "code": "P1fdf62e-481e-ne10-cc7c8-ak3bc4860117",
+          "code": "P1fdf62e-481e-ne10-cc7c8-ak3bc486011b",
           "corpro": "Classified",
           "frame": "Classified",
-          "mech": "Redacted"
+          "mech": "Mosquito"
         },
         {
           "callsign": "Jericho",
           "alias": 'Minerva "Minnie" Talos',
-          "code": "D1fdf62e-381e-1e10-1c7c8-ak3bc4860117",
+          "code": "D1fdf62e-381e-1e10-1c7c8-ak3bc486011c",
           "corpro": "Classified",
           "frame": "Classified",
-          "mech": "Redacted"
+          "mech": "Swan_Song"
         },
         {
           "callsign": "Kansas",
@@ -135,15 +135,15 @@ export default {
           "code": "Jf572259-o946-a1bf-Q31a-u1m43709e892d",
           "corpro": "Data not Found",
           "frame": "Data not Found",
-          "mech": "Redacted"
+          "mech": "No_Love_Omninet"
         },
         {
           "callsign": "Singularity",
           "alias": 'Halcylia',
-          "code": "E1fdf62e-n81e-ae10-07c8-0f3bc4860117",
+          "code": "E1fdf62e-n81e-ae10-07c8-0f3bc486011e",
           "corpro": "Classified",
           "frame": "Classified",
-          "mech": "Redacted"
+          "mech": "Realspace_Anomaly"
         },
       ],
       "header": {
