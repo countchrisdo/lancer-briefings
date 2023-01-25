@@ -98,6 +98,11 @@ export default {
           "name": "Bug-Hunt",
           "status": "start"
         },
+        {
+          "slug": "002",
+          "name": "Test-Hunt",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
@@ -107,22 +112,6 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Type - Worst Beat"
-        },
-        {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Necrophile"
-        },
-        {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Scarlet Judicator"
         },
         {
           "callsign": "Badlands",
