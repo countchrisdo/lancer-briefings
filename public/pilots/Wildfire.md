@@ -1,0 +1,4 @@
+Serena Sherwood hails from the faraway diasporan planet, **Rustel**. She was one of very few mech pilots there, kept as insurance in case of raids from pirates or various otherworldly invaders. Not that there was much reason for them to, at least, not until the discovery of vast quantities of Blue Lobster. Word started to spread around, and the raids started to become far more frequent, leading to Serena nearly losing her life as she defended her city. But, in a stroke of luck, the resources and the raids also drew the attention of the Union, who arrived with mechs and gunships, right in the nick of time…
+
+Once she knew her home planet was secure, she set out to travel across space, working as a hired mercenary. There are plenty of other worlds out there in need of security and hired gun, after all
+

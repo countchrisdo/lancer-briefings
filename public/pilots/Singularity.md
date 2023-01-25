@@ -1,0 +1,9 @@
+A girl was born upon a refugee ship escaping a purge carried out by **Seccomm** on a civilian planet. Before the parents could even name the child, the ship caught the ire of a Union ship which moved in for the kill. After taking a few blows and having little to defend itself with, it performed a sublight shunt which killed many of the crew and passengers, including her parents.
+
+The girl, having no parents, became a child of the ship with the crew taking care of her, but none became attached to the point of adoption. She grew and matured quickly, taking on the hard working values of everyone on board. 
+
+Eventually the ship approached a passing black hole. The girl, enamored at the idea of seeing one, used her knowledge of the ship that the crew gave her and snuck into the helm and altered the course of the ship. Nobody noticed this tiny course alteration until it was too late. 
+
+She doesn’t remember her final moments on the ship, only waking up in a hospital bed after a millennia-long nightmare. How she had gotten there was a mystery even for the nurses and doctors on staff. She had been found asleep and stuck in some tree branches by some planetary surveyors who quickly called for medevac. Her condition seemed stable on the surface, but after a few moments of close examination she seemed to have *quirks of unstable transform anchoring*. Some of the medical team would often swear that she would disappear for a moment before returning after a blink.
+
+She was eventually given a device that solved these weird behaviors: two metal rods implanted in each of her wrists, going through the top and bottom of each. She didn’t understand how the inner mechanisms worked at the time, but it did indeed cure her of her problems.

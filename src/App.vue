@@ -90,44 +90,60 @@ export default {
   data() {
     return {
       "mission_slug": "001",
-      "current_md": "",
-      "events": "",
+      "current_md": "001",
+      "events": "001",
       "missions": [
         {
-          "slug": "001",
-          "name": "Bug-Hunt",
-          "status": "start"
+          "slug": "000",
+          "name": "Operation Snakeskin",
+          "status": "success"
         },
         {
-          "slug": "002",
-          "name": "Test-Hunt",
+          "slug": "001",
+          "name": "Operation Text",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "callsign": "Wildfire",
+          "alias": "Serena Sherwood",
+          "code": "Sf572259-a946-m1bf-031a-00543709e892d",
+          "corpro": "Classified",
+          "frame": "Classified",
+          "mech": "Redacted"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
+          "callsign": "Fever",
+          "alias": "Zorica Novak",
+          "code": "P1fdf62e-481e-ne10-cc7c8-ak3bc4860117",
+          "corpro": "Classified",
+          "frame": "Classified",
+          "mech": "Redacted"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "callsign": "Jericho",
+          "alias": 'Minerva "Minnie" Talos',
+          "code": "D1fdf62e-381e-1e10-1c7c8-ak3bc4860117",
+          "corpro": "Classified",
+          "frame": "Classified",
+          "mech": "Redacted"
+        },
+        {
+          "callsign": "Kansas",
+          "alias": 'Kaa Abgal',
+          "code": "Jf572259-o946-a1bf-Q31a-u1m43709e892d",
+          "corpro": "Data not Found",
+          "frame": "Data not Found",
+          "mech": "Redacted"
+        },
+        {
+          "callsign": "Singularity",
+          "alias": 'Halcylia',
+          "code": "E1fdf62e-n81e-ae10-07c8-0f3bc4860117",
+          "corpro": "Classified",
+          "frame": "Classified",
+          "mech": "Redacted"
         },
       ],
       "header": {
@@ -136,10 +152,10 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
+        "headerTitle": "Steel Hawks",
+        "headerSubtitle": "Security LLC",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Coms-Host-Ram-Intel-Sigma",
       },
       "options":{
         "eventsMarkdownPerMission": true
